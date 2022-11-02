@@ -1,0 +1,8 @@
+express 
+mongoose 
+nodemon 
+socket.io 
+bcrypt 
+cors 
+dotenv
+yarn
